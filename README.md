@@ -1,19 +1,25 @@
-####  自己收集或编写的一些信息安全人员常用脚本
+####  项目免责声明
 
 
 
-1. 信息安全测试人员常用的脚本
-2. 该项目仅用于信息安全研究
-3. 触犯法律后果自负
-4. 工具来源为各位前辈大佬和自己写的一些脚本
-5. 也有改的前辈们的脚本
+1. 自己收集或编写的一些信息安全人员常用脚本
 
+2. 该项目仅用于信息安全研究，<b>触犯法律后果自负</b>
 
-##### Tools List
+3. 工具来源
+
+   ​	[ * ] 前辈大佬们的脚本
+
+   ​	[ * ] 二次开发的脚本
+
+   ​	[ * ] 自己编写的脚本
+
+   
+
+##### [ + ] Tools List
+
 ```bash
-|-DICtionaries             
-	|- *.txt               # 集合了个人收集和整理的各种字典
-	
+
 |-Exploit Tools		
 	|- AWVS_Scan           
 	|- FUZZ
@@ -31,10 +37,7 @@
 	   |- XSStrike
 	   |- burtexss
 	|- enumXFF               # 枚举X-Forwarded-Headers中的IP以绕过403限制
-	
-|-Some-Pox_oR-ExP-master
-	|- more file Exp
-	
+
 |-Two-level-Domain_Scan
 	|- knock                 # 二级域名爆破
 	|- subdomain3
@@ -92,9 +95,23 @@
 
 ```
 
+|- [DICtionaries](https://github.com/ppbibo/Frequently-used-Dic)   
+	|- *.txt               # 集合了个人收集和整理的各种字典
+
+|-Some-Pox_oR-ExP-master 		 # 由于文件太大导致无法上传
+	|- more file Exp
 
 
-Continuous updating....
+
+##### Continuous updating....
+
+
+
+欢迎一起学习交流，或者推荐一些新的工具 👏👏👏
+
+###### QQ: 14483827388
+
+###### mail:sunx36ose@vip.qq.com
 
 
 
