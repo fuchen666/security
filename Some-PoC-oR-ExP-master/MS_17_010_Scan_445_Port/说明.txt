@@ -1,0 +1,9 @@
+工具的使用步骤如下：
+解压后在命令行下执行MS_17_010_Scan.exe，支持-ip 和-file两种参数。
+-ip参数可以指定IP扫描，同时支持IP段扫描：
+MS_17_010_Scan.exe -ip 192.168.44.129
+MS_17_010_Scan.exe -ip 192.168.44.129 192.168.44.133
+-file参数支持从文件读取IP列表进行扫描：
+MS_17_010_Scan.exe -file ip.txt
+工具将显示检测结果：如不存在风险将显示NOT Found Vuln，如存在风险将显示Found Vuln MS17-010及目标电脑的操作系统版本，如果IP地址无效或者漏洞端口未开则显示Exception。
+输出结果同时保存在当前目录的result.txt中。
