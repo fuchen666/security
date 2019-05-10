@@ -19,7 +19,9 @@
 ##### [ + ] Tools List
 
 ```bash
-
+|-Some-Pox_oR-ExP-master  # 收集的一些Exp
+	|- more file Exp
+	
 |-Exploit Tools		
 	|- AWVS_Scan           
 	|- FUZZ
@@ -97,9 +99,6 @@
 
 |- [DICtionaries](https://github.com/ppbibo/Frequently-used-Dic)   
 	|- *.txt               # 集合了个人收集和整理的各种字典
-
-|-Some-Pox_oR-ExP-master 		 # 由于文件太大导致无法上传
-	|- more file Exp
 
 
 
