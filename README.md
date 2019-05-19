@@ -54,8 +54,10 @@
 	|- wafw00f                # 对WEB端进行waf识别
 	|- weakfilescan           # 利用动态规则的多线程敏感信息泄露检测工具
 	|- whatweb                # Web应用信息收集工具
-	|- wig
-
+	|- wig									
+	|- ds_store_exp           # 它解析.DS_Store文件并递归地下载文件到本地。
+	|- BBScan # BBScan用于渗透测试前期，快速地对大量目标进行扫描，发现信息泄露等常见漏洞BBScan 
+	
 |-Webshell 
 	|- more file *.(php|jsp|asp|apsx|jpg|gif|?)
 	
@@ -79,7 +81,11 @@
 	|- weather.py               # 天气推送
 	|- mail_add_file.py         # 邮件添加附件发送
 	
-|-CheckList.xlsx              # 各行业漏洞测试项
+|-Mind-Map
+  |- CheckList.xlsx              # 各行业漏洞测试项
+  |- 渗透测试思维导图.png
+  
+  
 
 
 ```
