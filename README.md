@@ -57,6 +57,8 @@
 	|- wig									
 	|- ds_store_exp           # 它解析.DS_Store文件并递归地下载文件到本地
 	|- CMSeeK                 # cms 扫描
+	|- F-NAScan-master				# 网络资产信息扫描
+	|- httpscan # 扫描指定CIDR网段的Web主机的小工具，返回IP http状态码 Web容器版本 以及网站标题
 	|- BBScan # BBScan用于渗透测试前期，快速地对大量目标进行扫描，发现信息泄露等常见漏洞BBScan 
 	
 |-Webshell 
