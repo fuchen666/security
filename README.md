@@ -95,7 +95,7 @@
 
 ##### [ * ] Other
 ```bash
-1. HTTrack                     # 网站克隆工具
+1. HTTrack                      # 网站克隆工具
 2. 中国蚁剑   
 3. sqlmap
 4. burpsuite_pro_v2.0   
@@ -103,6 +103,8 @@
 6. nmap
 7. hydra
 8. msf
+9. ngrok    		   	# 内网渗透
+10. cobaltstrike
 
 ```
 
@@ -121,7 +123,7 @@
 
 ###### mail:sunx36ose@vip.qq.com
 
-
+###### Blog: https://6o9.im
 
 ##### PS: 懒惰使人开发
 
