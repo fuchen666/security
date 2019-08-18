@@ -1,0 +1,1815 @@
+1538273492142	geckodriver	INFO	geckodriver 0.18.0
+1538273492146	geckodriver	INFO	Listening on 127.0.0.1:51535
+1538273493257	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 10:11:34.684 plugin-container[1186:136892] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:11:34.991 plugin-container[1187:136924] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538273495307	Marionette	INFO	Listening on port 51547
+1538273495362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538273495403	Marionette	DEBUG	[4294967297] Frame script loaded
+1538273495413	Marionette	DEBUG	[4294967297] Frame script registered
+1538273495436	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-30 10:11:35.784 plugin-container[1188:137032] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538273496608	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1538273497556	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1538273497830	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.baidu.com/
+2018-09-30 10:13:57.039 plugin-container[1205:140804] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://tlias-stu.boxuegu.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://tlias-stu.boxuegu.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1538273704741	geckodriver	INFO	geckodriver 0.18.0
+1538273704748	geckodriver	INFO	Listening on 127.0.0.1:51658
+1538273705845	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 10:15:07.180 plugin-container[1215:144314] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:15:07.581 plugin-container[1216:144343] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538273707845	Marionette	INFO	Listening on port 51669
+1538273707929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538273707965	Marionette	DEBUG	[4294967297] Frame script loaded
+1538273707972	Marionette	DEBUG	[4294967297] Frame script registered
+1538273707985	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-30 10:15:08.295 plugin-container[1217:144501] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538273708381	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538273711231	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538273712603	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538273712833	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538274550978	geckodriver	INFO	geckodriver 0.18.0
+1538274550985	geckodriver	INFO	Listening on 127.0.0.1:51884
+1538274552108	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 10:29:13.371 plugin-container[1250:151674] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:29:13.797 plugin-container[1251:151697] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538274554086	Marionette	INFO	Listening on port 51895
+1538274554114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538274554162	Marionette	DEBUG	[4294967297] Frame script loaded
+1538274554180	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-30 10:29:14.576 plugin-container[1252:151859] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://tlias-stu.boxuegu.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+2018-09-30 10:30:59.921 plugin-container[1260:155135] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://tlias-stu.boxuegu.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://tlias-stu.boxuegu.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://tlias-stu.boxuegu.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1538274801372	geckodriver	INFO	geckodriver 0.18.0
+1538274801378	geckodriver	INFO	Listening on 127.0.0.1:52004
+1538274802444	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 10:33:23.624 plugin-container[1308:160681] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:33:23.896 plugin-container[1309:160714] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538274804159	Marionette	INFO	Listening on port 52015
+1538274804242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538274804282	Marionette	DEBUG	[4294967297] Frame script loaded
+1538274804284	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-30 10:33:24.604 plugin-container[1310:160853] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:33:40.468 plugin-container[1313:161854] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538274822435	Marionette	INFO	Stopped listening on port 52015
+2018-09-30 10:33:43.778 plugin-container[1314:162137] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7107, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538274828583	Marionette	INFO	Stopped listening on port 51895
+2018-09-30 10:33:50.446 plugin-container[1316:162454] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538274832170	Marionette	INFO	Stopped listening on port 51669
+2018-09-30 10:34:02.239 plugin-container[1317:163080] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538274843826	Marionette	INFO	Stopped listening on port 51547
+1538274849653	geckodriver	INFO	geckodriver 0.18.0
+1538274849659	geckodriver	INFO	Listening on 127.0.0.1:52074
+1538274850748	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 10:34:11.770 plugin-container[1324:163565] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:34:12.022 plugin-container[1325:163594] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538274852309	Marionette	INFO	Listening on port 52085
+1538274852412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538274852450	Marionette	DEBUG	[4294967297] Frame script loaded
+1538274852456	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-30 10:34:12.726 plugin-container[1326:163709] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:37:20.114 plugin-container[1347:169185] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x703f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538275130404	Marionette	INFO	Stopped listening on port 52085
+1538275144901	geckodriver	INFO	geckodriver 0.18.0
+1538275144908	geckodriver	INFO	Listening on 127.0.0.1:52671
+1538275145997	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 10:39:07.384 plugin-container[1365:173509] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:39:07.738 plugin-container[1366:173537] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538275148095	Marionette	INFO	Listening on port 52686
+1538275148229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538275148272	Marionette	DEBUG	[4294967297] Frame script loaded
+1538275148274	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-30 10:39:08.505 plugin-container[1367:173642] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7507, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538275197722	geckodriver	INFO	geckodriver 0.18.0
+1538275197726	geckodriver	INFO	Listening on 127.0.0.1:52963
+1538275198788	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 10:39:59.742 plugin-container[1374:174854] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:39:59.987 plugin-container[1375:174877] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7433, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538275200293	Marionette	INFO	Listening on port 52978
+1538275200354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538275200389	Marionette	DEBUG	[4294967297] Frame script loaded
+1538275200397	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-30 10:40:00.756 plugin-container[1376:174986] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538275211336	geckodriver	INFO	geckodriver 0.18.0
+1538275211340	geckodriver	INFO	Listening on 127.0.0.1:53079
+1538275212402	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 10:40:13.390 plugin-container[1384:175656] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:40:13.627 plugin-container[1385:175689] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538275213862	Marionette	INFO	Listening on port 53094
+1538275213953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538275213990	Marionette	DEBUG	[4294967297] Frame script loaded
+1538275213992	Marionette	DEBUG	[4294967297] Frame script registered
+1538275214018	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538275214208	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-09-30 10:40:14.350 plugin-container[1386:175802] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538275225426	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538275230902	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538275234204	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538275242806	Marionette	INFO	Stopped listening on port 52686
+1538275246364	geckodriver	INFO	geckodriver 0.18.0
+1538275246372	geckodriver	INFO	Listening on 127.0.0.1:53291
+1538275247449	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 10:40:49.224 plugin-container[1394:176745] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:40:49.566 plugin-container[1395:176776] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538275250009	Marionette	INFO	Listening on port 53306
+1538275250104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538275250165	Marionette	DEBUG	[4294967297] Frame script loaded
+1538275250169	Marionette	DEBUG	[4294967297] Frame script registered
+1538275250194	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-30 10:40:50.272 plugin-container[1396:176892] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7547, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538275250406	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538275262934	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538275268016	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538275271334	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+2018-09-30 10:42:08.086 plugin-container[1462:179397] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:42:14.788 plugin-container[1463:179799] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7107, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538275336375	Marionette	INFO	Stopped listening on port 52978
+1538275338557	Marionette	INFO	Stopped listening on port 53094
+2018-09-30 10:46:34.964 plugin-container[1513:183656] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538275598747	Marionette	INFO	Stopped listening on port 53306
+1538275906233	geckodriver	INFO	geckodriver 0.18.0
+1538275906238	geckodriver	INFO	Listening on 127.0.0.1:56106
+1538275907297	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 10:51:48.313 plugin-container[1572:190568] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7307, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:51:48.600 plugin-container[1573:190603] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538275908864	Marionette	INFO	Listening on port 56121
+1538275908971	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538275909010	Marionette	DEBUG	[4294967297] Frame script loaded
+1538275909013	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-30 10:51:49.274 plugin-container[1574:190713] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:52:23.923 plugin-container[1581:191365] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538275945857	Marionette	INFO	Stopped listening on port 56121
+1538275949913	geckodriver	INFO	geckodriver 0.18.0
+1538275949920	geckodriver	INFO	Listening on 127.0.0.1:56340
+1538275950994	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 10:52:32.787 plugin-container[1588:191926] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:52:33.420 plugin-container[1589:191954] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:52:33.942 plugin-container[1590:192055] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7003, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538275953960	Marionette	INFO	Listening on port 56355
+1538275954056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538275954112	Marionette	DEBUG	[4294967297] Frame script loaded
+1538275954124	Marionette	DEBUG	[4294967297] Frame script registered
+1538275987821	geckodriver	INFO	geckodriver 0.18.0
+1538275987825	geckodriver	INFO	Listening on 127.0.0.1:56568
+1538275988942	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 10:53:10.034 plugin-container[1600:192918] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:53:10.261 plugin-container[1601:192943] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538275990479	Marionette	INFO	Listening on port 56587
+1538275990508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538275990549	Marionette	DEBUG	[4294967297] Frame script loaded
+1538275990556	Marionette	DEBUG	[4294967297] Frame script registered
+1538275990579	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538275990743	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-09-30 10:53:11.071 plugin-container[1602:193086] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9207, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538276006618	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538276010857	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538276014161	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1600, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+2018-09-30 10:54:05.677 plugin-container[1610:194963] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538276058889	geckodriver	INFO	geckodriver 0.18.0
+1538276058893	geckodriver	INFO	Listening on 127.0.0.1:56927
+1538276059951	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 10:54:20.919 plugin-container[1618:195720] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 10:54:21.171 plugin-container[1619:195744] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538276061418	Marionette	INFO	Listening on port 56942
+1538276061523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538276061559	Marionette	DEBUG	[4294967297] Frame script loaded
+1538276061568	Marionette	DEBUG	[4294967297] Frame script registered
+1538276061579	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538276061767	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-09-30 10:54:21.903 plugin-container[1620:195864] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538276085623	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538276094081	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538276097397	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538276479983	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1538276479984	addons.xpi	ERROR	Failed to download system add-on fxmonitor@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1538276479985	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1538276479986	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1538276479987	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+1538278392490	Marionette	INFO	Stopped listening on port 56942
+1538278409056	geckodriver	INFO	geckodriver 0.18.0
+1538278409062	geckodriver	INFO	Listening on 127.0.0.1:50653
+1538278410155	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 11:33:31.260 plugin-container[2002:229725] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 11:33:31.520 plugin-container[2003:229751] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538278411789	Marionette	INFO	Listening on port 50664
+1538278411827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538278411866	Marionette	DEBUG	[4294967297] Frame script loaded
+1538278411868	Marionette	DEBUG	[4294967297] Frame script registered
+1538278411886	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-30 11:33:32.310 plugin-container[2004:229858] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538278413162	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538278423816	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538278429022	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538278432364	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538278883096	Marionette	INFO	Stopped listening on port 56355
+1538278896646	geckodriver	INFO	geckodriver 0.18.0
+1538278896652	geckodriver	INFO	Listening on 127.0.0.1:52733
+1538278897769	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 11:41:38.862 plugin-container[2025:233943] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8807, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 11:41:39.148 plugin-container[2026:233970] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538278899598	Marionette	INFO	Listening on port 52744
+1538278899672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538278899717	Marionette	DEBUG	[4294967297] Frame script loaded
+1538278899718	Marionette	DEBUG	[4294967297] Frame script registered
+1538278899737	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538278899949	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-09-30 11:41:40.244 plugin-container[2027:234106] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538278917280	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538278924420	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538278927731	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1538283738081	geckodriver	INFO	geckodriver 0.18.0
+1538283738087	geckodriver	INFO	Listening on 127.0.0.1:59080
+1538283739150	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 13:02:20.214 plugin-container[2113:249717] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 13:02:20.562 plugin-container[2114:249743] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8003, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538283740852	Marionette	INFO	Listening on port 59091
+1538283740869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538283740913	Marionette	DEBUG	[4294967297] Frame script loaded
+1538283740914	Marionette	DEBUG	[4294967297] Frame script registered
+1538283740939	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-30 13:02:21.254 plugin-container[2115:249922] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538283752509	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538283763401	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538283768488	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538283771792	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1538286526941	geckodriver	INFO	geckodriver 0.18.0
+1538286526946	geckodriver	INFO	Listening on 127.0.0.1:64347
+1538286528014	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 13:48:49.123 plugin-container[2183:269330] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 13:48:49.380 plugin-container[2184:269355] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538286529618	Marionette	INFO	Listening on port 64358
+1538286529672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538286529714	Marionette	DEBUG	[4294967297] Frame script loaded
+1538286529716	Marionette	DEBUG	[4294967297] Frame script registered
+1538286529733	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-30 13:48:50.105 plugin-container[2185:269499] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538286531411	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538286532964	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538286534821	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538286538144	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+1538286707249	geckodriver	INFO	geckodriver 0.18.0
+1538286707253	geckodriver	INFO	Listening on 127.0.0.1:65149
+1538286708318	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 13:51:49.583 plugin-container[2214:277922] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8547, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 13:51:49.804 plugin-container[2215:277968] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538286710025	Marionette	INFO	Listening on port 65164
+1538286710110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538286710164	Marionette	DEBUG	[4294967297] Frame script loaded
+1538286710169	Marionette	DEBUG	[4294967297] Frame script registered
+1538286710203	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-30 13:51:50.503 plugin-container[2216:278130] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6e33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538286710619	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538286713115	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538286714547	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538286717839	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538286832545	geckodriver	INFO	geckodriver 0.18.0
+1538286832549	geckodriver	INFO	Listening on 127.0.0.1:49395
+1538286833630	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 13:53:54.780 plugin-container[2232:283411] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 13:53:55.032 plugin-container[2233:283462] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8807, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538286835288	Marionette	INFO	Listening on port 49406
+1538286835336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538286835374	Marionette	DEBUG	[4294967297] Frame script loaded
+1538286835379	Marionette	DEBUG	[4294967297] Frame script registered
+1538286835397	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538286835683	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-09-30 13:53:55.836 plugin-container[2234:283614] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538286837930	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538286839271	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538286842571	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+1538288424924	Marionette	INFO	Stopped listening on port 49406
+1538288427999	Marionette	INFO	Stopped listening on port 65164
+1538288429829	Marionette	INFO	Stopped listening on port 50664
+2018-09-30 15:14:17.459 plugin-container[2502:330906] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538291805203	Marionette	INFO	Stopped listening on port 64358
+1538292086288	geckodriver	INFO	geckodriver 0.18.0
+1538292086296	geckodriver	INFO	Listening on 127.0.0.1:54078
+1538292087360	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 15:21:29.271 plugin-container[2733:346884] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 15:21:29.509 plugin-container[2735:346952] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7047, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538292090086	Marionette	INFO	Listening on port 54090
+1538292090169	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538292090219	Marionette	DEBUG	[4294967297] Frame script loaded
+1538292090230	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-30 15:21:30.247 plugin-container[2737:347059] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x700b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538292090258	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538292090739	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538292128964	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538292173953	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538292177259	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+console.error: "Got a removal of an actor we didn't know about: server1.conn1.child1/domnode80"
+console.error: "Got an addition of an actor we didn't know about: server1.conn1.child1/domnode91"
+console.error: "Got an addition of an actor we didn't know about: server1.conn1.child1/domnode90"
+console.error: "Got a removal of an actor we didn't know about: server1.conn2.child1/domnode80"
+console.error: "Got an addition of an actor we didn't know about: server1.conn2.child1/domnode91"
+console.error: "Got an addition of an actor we didn't know about: server1.conn2.child1/domnode90"
+JavaScript warning: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 55ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/vendor/react-dom.js, line 32: Error: Minified React error #188; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=188 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1538293341974	geckodriver	INFO	geckodriver 0.18.0
+1538293341978	geckodriver	INFO	Listening on 127.0.0.1:54630
+1538293343046	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 15:42:24.476 plugin-container[2936:394378] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7247, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 15:42:24.724 plugin-container[2937:394413] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538293344955	Marionette	INFO	Listening on port 54637
+1538293345042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538293345078	Marionette	DEBUG	[4294967297] Frame script loaded
+1538293345094	Marionette	DEBUG	[4294967297] Frame script registered
+1538293345118	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-30 15:42:25.393 plugin-container[2938:394588] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538293345887	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538293354951	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538293360652	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538293363961	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538293363971	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+2018-09-30 15:43:41.316 plugin-container[2939:396796] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538296218844	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1538296218854	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1538296218861	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+1538313264104	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1538313264111	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1538313264111	addons.xpi	ERROR	Failed to download system add-on gmp-gmpopenh264: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1538313264111	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1538313264112	addons.xpi	ERROR	Failed to download system add-on gmp-widevinecdm: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1538313264112	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+1538313282020	Marionette	INFO	Stopped listening on port 54090
+1538313376901	geckodriver	INFO	geckodriver 0.18.0
+1538313376908	geckodriver	INFO	Listening on 127.0.0.1:54905
+1538313377972	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 21:16:18.986 plugin-container[3049:410355] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 21:16:19.248 plugin-container[3050:410380] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538313379498	Marionette	INFO	Listening on port 54912
+1538313379532	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538313379577	Marionette	DEBUG	[4294967297] Frame script loaded
+1538313379577	Marionette	DEBUG	[4294967297] Frame script registered
+1538313379597	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538313379683	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-09-30 21:16:20.037 plugin-container[3051:410495] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538313381760	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538313382982	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538313386288	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538313386296	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538313466594	Marionette	INFO	Stopped listening on port 54912
+1538313488692	geckodriver	INFO	geckodriver 0.18.0
+1538313488699	geckodriver	INFO	Listening on 127.0.0.1:54976
+1538313489783	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 21:18:10.855 plugin-container[3060:411476] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 21:18:11.100 plugin-container[3061:411499] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538313491313	Marionette	INFO	Listening on port 54983
+1538313491346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538313491384	Marionette	DEBUG	[4294967297] Frame script loaded
+1538313491389	Marionette	DEBUG	[4294967297] Frame script registered
+1538313491407	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538313491478	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-09-30 21:18:11.826 plugin-container[3062:411615] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538313493777	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538313494706	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538313498003	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538313498009	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538313645087	Marionette	INFO	Stopped listening on port 54983
+1538313647604	geckodriver	INFO	geckodriver 0.18.0
+1538313647613	geckodriver	INFO	Listening on 127.0.0.1:55046
+1538313648723	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 21:20:50.050 plugin-container[3091:412866] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x862b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 21:20:50.409 plugin-container[3092:412892] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538313650730	Marionette	INFO	Listening on port 55053
+1538313650825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538313650873	Marionette	DEBUG	[4294967297] Frame script loaded
+1538313650875	Marionette	DEBUG	[4294967297] Frame script registered
+1538313650910	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538313651039	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-09-30 21:20:51.279 plugin-container[3093:413022] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x703f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538313653226	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538313654600	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538313657937	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538313660952	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+2018-09-30 22:45:39.378 plugin-container[3157:433445] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538318743853	Marionette	INFO	Stopped listening on port 55053
+1538318754741	geckodriver	INFO	geckodriver 0.18.0
+1538318754749	geckodriver	INFO	Listening on 127.0.0.1:55396
+1538318755930	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 22:45:57.117 plugin-container[3165:433830] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 22:45:57.416 plugin-container[3166:433853] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538318757741	Marionette	INFO	Listening on port 55403
+1538318757821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538318757876	Marionette	DEBUG	[4294967297] Frame script loaded
+1538318757974	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-30 22:45:58.360 plugin-container[3167:433967] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538318801188	geckodriver	INFO	geckodriver 0.18.0
+1538318801191	geckodriver	INFO	Listening on 127.0.0.1:55471
+1538318802279	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-09-30 22:46:43.302 plugin-container[3174:434461] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-30 22:46:43.532 plugin-container[3175:434487] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538318803764	Marionette	INFO	Listening on port 55478
+1538318803862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538318803896	Marionette	DEBUG	[4294967297] Frame script loaded
+1538318803904	Marionette	DEBUG	[4294967297] Frame script registered
+1538318803927	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538318803990	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-09-30 22:46:44.303 plugin-container[3176:434611] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538318805582	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538318806698	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538318810000	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538318813014	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+2018-09-30 22:48:15.849 plugin-container[3182:435310] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538318900256	Marionette	INFO	Stopped listening on port 54637
+1538318929576	Marionette	INFO	Stopped listening on port 55478
+2018-09-30 22:48:51.223 plugin-container[3183:435653] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538318936929	Marionette	INFO	Stopped listening on port 55403
+1538415249035	geckodriver	INFO	geckodriver 0.18.0
+1538415249046	geckodriver	INFO	Listening on 127.0.0.1:62288
+1538415250318	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 01:34:12.007 plugin-container[5923:781537] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 01:34:12.324 plugin-container[5924:781570] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 01:34:13.069 plugin-container[5926:781642] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538415253071	Marionette	INFO	Listening on port 62295
+1538415253200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538415253254	Marionette	DEBUG	[4294967297] Frame script loaded
+1538415253285	Marionette	DEBUG	[4294967297] Frame script registered
+1538415253310	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538415253369	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538415254541	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538415255554	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538415258870	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538415261887	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+2018-10-02 01:38:08.995 plugin-container[5963:784544] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6d47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 01:41:30.576 plugin-container[6010:786329] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2000B,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+1538415972263	geckodriver	INFO	geckodriver 0.18.0
+1538415972270	geckodriver	INFO	Listening on 127.0.0.1:62759
+1538415973338	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 01:46:14.602 plugin-container[6137:788764] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 01:46:14.957 plugin-container[6138:788786] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538415975259	Marionette	INFO	Listening on port 62766
+1538415975320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538415975366	Marionette	DEBUG	[4294967297] Frame script loaded
+1538415975380	Marionette	DEBUG	[4294967297] Frame script registered
+1538415975424	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538415975478	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 01:46:15.872 plugin-container[6139:788894] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538415977172	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538415978070	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538415981373	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538415984390	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538416056060	Marionette	INFO	Stopped listening on port 62766
+2018-10-02 01:47:37.928 plugin-container[6142:789648] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538416063682	geckodriver	INFO	geckodriver 0.18.0
+1538416063689	geckodriver	INFO	Listening on 127.0.0.1:62882
+1538416064780	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 01:47:45.967 plugin-container[6148:789889] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 01:47:46.324 plugin-container[6149:789926] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538416066723	Marionette	INFO	Listening on port 62889
+1538416066768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538416066820	Marionette	DEBUG	[4294967297] Frame script loaded
+1538416066822	Marionette	DEBUG	[4294967297] Frame script registered
+1538416066836	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538416067154	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 01:47:47.258 plugin-container[6150:790046] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9003, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538416068959	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538416069865	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538416073153	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538416076170	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+2018-10-02 01:53:17.221 plugin-container[6203:791929] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538416640236	Marionette	INFO	Stopped listening on port 62889
+1538416645468	Marionette	INFO	Stopped listening on port 62295
+1538416689259	geckodriver	INFO	geckodriver 0.18.0
+1538416689265	geckodriver	INFO	Listening on 127.0.0.1:63229
+1538416690341	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 01:58:11.562 plugin-container[6228:794794] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 01:58:11.892 plugin-container[6229:794820] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9047, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538416692147	Marionette	INFO	Listening on port 63236
+1538416692224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538416692273	Marionette	DEBUG	[4294967297] Frame script loaded
+1538416692274	Marionette	DEBUG	[4294967297] Frame script registered
+1538416692311	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538416692380	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 01:58:12.844 plugin-container[6231:794934] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b0f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538416694399	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538416695152	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538416698444	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538416701457	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538416815715	geckodriver	INFO	geckodriver 0.18.0
+1538416815722	geckodriver	INFO	Listening on 127.0.0.1:63356
+1538416816789	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:00:18.081 plugin-container[6248:796163] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:00:18.344 plugin-container[6249:796191] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538416818621	Marionette	INFO	Listening on port 63363
+1538416818686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538416818730	Marionette	DEBUG	[4294967297] Frame script loaded
+1538416818731	Marionette	DEBUG	[4294967297] Frame script registered
+1538416818751	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538416818823	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:00:19.265 plugin-container[6250:796296] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538416820599	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538416821486	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538416824785	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538416827798	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538417011184	geckodriver	INFO	geckodriver 0.18.0
+1538417011190	geckodriver	INFO	Listening on 127.0.0.1:63479
+1538417012257	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:03:33.603 plugin-container[6264:797635] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:03:33.935 plugin-container[6265:797659] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8947, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538417014250	Marionette	INFO	Listening on port 63486
+1538417014357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538417014400	Marionette	DEBUG	[4294967297] Frame script loaded
+1538417014404	Marionette	DEBUG	[4294967297] Frame script registered
+1538417014427	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538417014511	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:03:34.830 plugin-container[6266:797776] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538417016335	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538417017446	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538417020805	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538417023822	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538417116528	geckodriver	INFO	geckodriver 0.18.0
+1538417116536	geckodriver	INFO	Listening on 127.0.0.1:63629
+1538417117603	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:05:18.873 plugin-container[6277:798810] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8507, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:05:19.114 plugin-container[6278:798834] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538417119379	Marionette	INFO	Listening on port 63637
+1538417119393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538417119432	Marionette	DEBUG	[4294967297] Frame script loaded
+1538417119433	Marionette	DEBUG	[4294967297] Frame script registered
+1538417119459	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538417119549	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:05:20.001 plugin-container[6279:798957] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538417121605	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538417122898	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538417126209	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538417129225	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538417131468	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538417149122	geckodriver	INFO	geckodriver 0.18.0
+1538417149125	geckodriver	INFO	Listening on 127.0.0.1:63711
+1538417150202	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:05:51.413 plugin-container[6287:799436] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:05:51.723 plugin-container[6288:799466] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538417151988	Marionette	INFO	Listening on port 63719
+1538417151994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538417152036	Marionette	DEBUG	[4294967297] Frame script loaded
+1538417152037	Marionette	DEBUG	[4294967297] Frame script registered
+1538417152052	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538417152109	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:05:52.629 plugin-container[6289:799576] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538417153590	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538417154510	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538417157807	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538417160826	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538417165073	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode89"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode96"
+1538417193721	geckodriver	INFO	geckodriver 0.18.0
+1538417193729	geckodriver	INFO	Listening on 127.0.0.1:63794
+1538417194829	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:06:36.138 plugin-container[6298:800212] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:06:36.387 plugin-container[6299:800237] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538417196707	Marionette	INFO	Listening on port 63801
+1538417196780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538417196817	Marionette	DEBUG	[4294967297] Frame script loaded
+1538417196819	Marionette	DEBUG	[4294967297] Frame script registered
+1538417196835	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538417196895	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:06:37.274 plugin-container[6300:800339] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538417198885	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538417199675	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538417202987	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538417206001	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538417210250	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+2018-10-02 02:11:27.702 plugin-container[6354:803335] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:11:30.324 plugin-container[6355:803453] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:11:35.908 plugin-container[6356:803521] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:11:47.002 plugin-container[6357:803673] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8733, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:14:26.879 plugin-container[6365:805278] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+2018-10-02 02:15:51.289 plugin-container[6368:806394] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538417809911	Marionette	INFO	Stopped listening on port 63236
+1538417812365	Marionette	INFO	Stopped listening on port 63486
+1538417815141	Marionette	INFO	Stopped listening on port 63637
+1538417817415	Marionette	INFO	Stopped listening on port 63719
+1538417819850	Marionette	INFO	Stopped listening on port 63801
+1538418080260	geckodriver	INFO	geckodriver 0.18.0
+1538418080268	geckodriver	INFO	Listening on 127.0.0.1:64498
+1538418081315	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:21:22.475 plugin-container[6470:809688] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:21:22.839 plugin-container[6471:809715] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538418083093	Marionette	INFO	Listening on port 64505
+1538418083125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538418083162	Marionette	DEBUG	[4294967297] Frame script loaded
+1538418083163	Marionette	DEBUG	[4294967297] Frame script registered
+2018-10-02 02:21:23.549 plugin-container[6472:809816] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538418093390	Marionette	INFO	Stopped listening on port 64505
+1538418152920	geckodriver	INFO	geckodriver 0.18.0
+1538418152928	geckodriver	INFO	Listening on 127.0.0.1:64563
+1538418154006	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:22:35.091 plugin-container[6480:810554] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:22:35.347 plugin-container[6481:810576] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8807, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538418155658	Marionette	INFO	Listening on port 64570
+1538418155681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538418155736	Marionette	DEBUG	[4294967297] Frame script loaded
+1538418155743	Marionette	DEBUG	[4294967297] Frame script registered
+1538418155769	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538418156204	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:22:36.266 plugin-container[6482:810688] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7947, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538418161787	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538418164451	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538418167756	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538418170776	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538418175016	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538418448078	geckodriver	INFO	geckodriver 0.18.0
+1538418448085	geckodriver	INFO	Listening on 127.0.0.1:64701
+1538418449141	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:27:30.412 plugin-container[6513:813452] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:27:30.674 plugin-container[6514:813480] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538418450949	Marionette	INFO	Listening on port 64708
+1538418450969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538418451013	Marionette	DEBUG	[4294967297] Frame script loaded
+1538418451014	Marionette	DEBUG	[4294967297] Frame script registered
+1538418451033	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538418451179	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:27:31.561 plugin-container[6515:813586] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538418455310	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538418458973	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538418462280	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538418465298	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+2018-10-02 02:28:51.916 plugin-container[6522:814265] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:30:31.113 plugin-container[6526:814852] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538418634938	Marionette	INFO	Stopped listening on port 64570
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+1538418738771	geckodriver	INFO	geckodriver 0.18.0
+1538418738776	geckodriver	INFO	Listening on 127.0.0.1:64909
+1538418739836	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:32:21.045 plugin-container[6540:815918] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:32:21.322 plugin-container[6541:815942] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538418741644	Marionette	INFO	Listening on port 64916
+1538418741769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538418741809	Marionette	DEBUG	[4294967297] Frame script loaded
+1538418741859	Marionette	DEBUG	[4294967297] Frame script registered
+1538418741882	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538418742069	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:32:22.083 plugin-container[6542:816055] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538418747996	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538418750378	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538418753679	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538418756692	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538418756704	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538418784374	geckodriver	INFO	geckodriver 0.18.0
+1538418784377	geckodriver	INFO	Listening on 127.0.0.1:64988
+1538418785441	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:33:06.578 plugin-container[6551:816571] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:33:06.818 plugin-container[6552:816600] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8607, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538418787080	Marionette	INFO	Listening on port 64995
+1538418787141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538418787182	Marionette	DEBUG	[4294967297] Frame script loaded
+1538418787183	Marionette	DEBUG	[4294967297] Frame script registered
+1538418787204	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-02 02:33:07.555 plugin-container[6553:816703] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538418787665	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538418793050	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538418795828	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538418799141	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538418802157	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538418802169	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/1
+1538418915253	geckodriver	INFO	geckodriver 0.18.0
+1538418915262	geckodriver	INFO	Listening on 127.0.0.1:65086
+1538418916329	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:35:17.905 plugin-container[6573:818036] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:35:18.399 plugin-container[6574:818059] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538418918712	Marionette	INFO	Listening on port 65093
+1538418918765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538418918820	Marionette	DEBUG	[4294967297] Frame script loaded
+1538418918821	Marionette	DEBUG	[4294967297] Frame script registered
+1538418918879	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538418919068	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:35:19.358 plugin-container[6575:818176] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x854b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538418923458	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538418926650	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538418929966	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538418932984	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538419018229	geckodriver	INFO	geckodriver 0.18.0
+1538419018236	geckodriver	INFO	Listening on 127.0.0.1:65234
+1538419019318	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:37:00.863 plugin-container[6592:819140] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:37:01.057 plugin-container[6593:819167] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538419021340	Marionette	INFO	Listening on port 65241
+1538419021428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538419021472	Marionette	DEBUG	[4294967297] Frame script loaded
+1538419021473	Marionette	DEBUG	[4294967297] Frame script registered
+1538419021518	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538419021685	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:37:01.945 plugin-container[6594:819276] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538419027206	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538419030361	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538419031843	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1538419033119	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1538419033667	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419033676	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538419036696	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/1
+1538419091115	geckodriver	INFO	geckodriver 0.18.0
+1538419091121	geckodriver	INFO	Listening on 127.0.0.1:65343
+1538419092190	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:38:13.426 plugin-container[6606:819898] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:38:13.702 plugin-container[6607:819923] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7107, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538419093992	Marionette	INFO	Listening on port 65350
+1538419094079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538419094142	Marionette	DEBUG	[4294967297] Frame script loaded
+1538419094173	Marionette	DEBUG	[4294967297] Frame script registered
+1538419094201	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538419094338	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:38:14.540 plugin-container[6608:820032] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538419099191	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538419101397	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538419104722	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419107740	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538419111985	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419339357	Marionette	INFO	Stopped listening on port 64708
+1538419340821	Marionette	INFO	Stopped listening on port 64916
+1538419343930	Marionette	INFO	Stopped listening on port 64995
+1538419347318	Marionette	INFO	Stopped listening on port 65093
+1538419350065	Marionette	INFO	Stopped listening on port 65241
+1538419355680	Marionette	INFO	Stopped listening on port 65350
+1538419380748	geckodriver	INFO	geckodriver 0.18.0
+1538419380755	geckodriver	INFO	Listening on 127.0.0.1:65491
+1538419381842	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:43:03.115 plugin-container[6655:822210] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:43:03.349 plugin-container[6656:822234] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538419383614	Marionette	INFO	Listening on port 65498
+1538419383729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538419383765	Marionette	DEBUG	[4294967297] Frame script loaded
+1538419383773	Marionette	DEBUG	[4294967297] Frame script registered
+1538419383787	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538419383917	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:43:04.122 plugin-container[6657:822354] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538419389240	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538419391949	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538419395258	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419398269	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538419401512	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419404880	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419410915	Marionette	INFO	Stopped listening on port 65498
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1538419461734	geckodriver	INFO	geckodriver 0.18.0
+1538419461737	geckodriver	INFO	Listening on 127.0.0.1:49196
+1538419462811	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:44:23.874 plugin-container[6670:823652] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:44:24.111 plugin-container[6671:823678] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7407, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538419464339	Marionette	INFO	Listening on port 49203
+1538419464401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538419464441	Marionette	DEBUG	[4294967297] Frame script loaded
+1538419464442	Marionette	DEBUG	[4294967297] Frame script registered
+1538419464454	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538419464590	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:44:24.872 plugin-container[6672:823795] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538419470153	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538419471928	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538419475230	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419478248	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538419481494	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419484849	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419577697	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1538419720321	geckodriver	INFO	geckodriver 0.18.0
+1538419720328	geckodriver	INFO	Listening on 127.0.0.1:49350
+1538419721381	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:48:42.522 plugin-container[6704:825671] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:48:42.790 plugin-container[6705:825699] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538419723106	Marionette	INFO	Listening on port 49357
+1538419723154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538419723194	Marionette	DEBUG	[4294967297] Frame script loaded
+1538419723196	Marionette	DEBUG	[4294967297] Frame script registered
+1538419723212	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538419723441	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:48:43.557 plugin-container[6706:825809] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538419728825	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538419732422	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538419735744	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419738757	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538419741998	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419745346	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419748387	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538419749621	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419832377	Marionette	INFO	Stopped listening on port 49203
+1538419834336	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1538419834336	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1538419834414	Marionette	INFO	Stopped listening on port 49357
+1538419838317	geckodriver	INFO	geckodriver 0.18.0
+1538419838331	geckodriver	INFO	Listening on 127.0.0.1:49447
+1538419839586	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:50:42.008 plugin-container[6718:826949] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:50:42.296 plugin-container[6719:826979] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538419842926	Marionette	INFO	Listening on port 49454
+1538419842948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538419843008	Marionette	DEBUG	[4294967297] Frame script loaded
+1538419843009	Marionette	DEBUG	[4294967297] Frame script registered
+1538419843059	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538419843210	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:50:44.067 plugin-container[6720:827099] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x890f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538419849088	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538419851471	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538419854787	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419857804	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538419861046	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419864543	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419867556	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538419870791	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538419962298	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1538419981477	Marionette	INFO	Stopped listening on port 49454
+1538419994918	geckodriver	INFO	geckodriver 0.18.0
+1538419994927	geckodriver	INFO	Listening on 127.0.0.1:49580
+1538419996001	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:53:17.219 plugin-container[6740:828399] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7547, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:53:17.468 plugin-container[6741:828429] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7547, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538419997718	Marionette	INFO	Listening on port 49587
+1538419997816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538419997854	Marionette	DEBUG	[4294967297] Frame script loaded
+1538419997855	Marionette	DEBUG	[4294967297] Frame script registered
+1538419997880	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538419998027	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:53:18.228 plugin-container[6742:828533] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538420004302	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538420007446	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538420010757	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420013768	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538420017019	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420020469	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420023481	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538420026714	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420032781	Marionette	INFO	Stopped listening on port 49587
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6741, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1538420045558	geckodriver	INFO	geckodriver 0.18.0
+1538420045562	geckodriver	INFO	Listening on 127.0.0.1:49661
+1538420046655	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:54:07.858 plugin-container[6751:829581] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:54:08.119 plugin-container[6752:829617] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538420048480	Marionette	INFO	Listening on port 49668
+1538420048540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538420048577	Marionette	DEBUG	[4294967297] Frame script loaded
+1538420048578	Marionette	DEBUG	[4294967297] Frame script registered
+1538420048591	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538420048821	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:54:08.919 plugin-container[6753:829717] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538420055520	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538420058043	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538420061350	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420064361	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538420067624	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420071084	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420074099	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538420077333	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420083375	Marionette	INFO	Stopped listening on port 49668
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6751, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1538420113406	geckodriver	INFO	geckodriver 0.18.0
+1538420113412	geckodriver	INFO	Listening on 127.0.0.1:49748
+1538420114511	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:55:15.747 plugin-container[6763:830835] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:55:16.029 plugin-container[6764:830870] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538420116346	Marionette	INFO	Listening on port 49755
+1538420116399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538420116437	Marionette	DEBUG	[4294967297] Frame script loaded
+1538420116439	Marionette	DEBUG	[4294967297] Frame script registered
+1538420116451	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538420116605	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 02:55:16.816 plugin-container[6765:830980] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538420122026	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538420124752	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538420128050	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420131066	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538420134312	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420137675	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420138688	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538420201155	geckodriver	INFO	geckodriver 0.18.0
+1538420201162	geckodriver	INFO	Listening on 127.0.0.1:49889
+1538420202219	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+2018-10-02 02:56:43.389 plugin-container[6785:832193] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:56:43.613 plugin-container[6786:832217] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538420203862	Marionette	INFO	Listening on port 49897
+1538420203929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538420203975	Marionette	DEBUG	[4294967297] Frame script loaded
+1538420203978	Marionette	DEBUG	[4294967297] Frame script registered
+1538420203997	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-02 02:56:44.359 plugin-container[6787:832324] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538420211596	Marionette	INFO	Stopped listening on port 49755
+1538420234703	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538420234704	Marionette	DEBUG	[4294967297] Received DOM event unload for about:blank
+1538420234707	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967297
+1538420238203	geckodriver	INFO	geckodriver 0.18.0
+1538420238207	geckodriver	INFO	Listening on 127.0.0.1:49965
+1538420239325	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:57:20.511 plugin-container[6795:832876] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:57:20.749 plugin-container[6796:832904] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7407, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538420241028	Marionette	INFO	Listening on port 49981
+1538420241115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538420241156	Marionette	DEBUG	[4294967297] Frame script loaded
+1538420241157	Marionette	DEBUG	[4294967297] Frame script registered
+1538420241169	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-02 02:57:21.532 plugin-container[6797:833009] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538420242857	Marionette	INFO	Stopped listening on port 49897
+1538420277082	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538420280118	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538420283101	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538420283102	Marionette	DEBUG	[4294967297] Received DOM event unload for about:blank
+1538420283103	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967297
+1538420287946	Marionette	INFO	Stopped listening on port 49981
+1538420323825	geckodriver	INFO	geckodriver 0.18.0
+1538420323828	geckodriver	INFO	Listening on 127.0.0.1:50097
+1538420324949	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 02:58:46.145 plugin-container[6898:834275] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 02:58:46.394 plugin-container[6900:834301] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538420326644	Marionette	INFO	Listening on port 50105
+1538420326733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538420326769	Marionette	DEBUG	[4294967297] Frame script loaded
+1538420326778	Marionette	DEBUG	[4294967297] Frame script registered
+1538420326794	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-02 02:58:47.105 plugin-container[6901:834420] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7303, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538420374247	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1538420417649	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538420417651	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538420417779	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for about:neterror?e=netTimeout&u=http%3A//tlias-stu.boxuegu.com/%23/login&c=UTF-8&f=regular&d=tlias-stu.boxuegu.com%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%93%8D%E5%BA%94%E6%97%B6%E9%97%B4%E8%BF%87%E9%95%BF%E3%80%82
+1538420431604	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1538420431627	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1538420452336	Marionette	INFO	Stopped listening on port 50105
+1538420456505	geckodriver	INFO	geckodriver 0.18.0
+1538420456515	geckodriver	INFO	Listening on 127.0.0.1:50255
+1538420457670	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 03:00:59.220 plugin-container[6932:835500] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 03:00:59.685 plugin-container[6933:835525] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538420460087	Marionette	INFO	Listening on port 50262
+1538420460116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538420460169	Marionette	DEBUG	[4294967297] Frame script loaded
+1538420460172	Marionette	DEBUG	[4294967297] Frame script registered
+1538420460237	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538420460310	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 03:01:00.549 plugin-container[6934:835646] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538420461937	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538420462760	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538420466072	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420469087	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538420472340	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420475824	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420477833	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538420481070	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420487110	Marionette	INFO	Stopped listening on port 50262
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1538420856717	geckodriver	INFO	geckodriver 0.18.0
+1538420856720	geckodriver	INFO	Listening on 127.0.0.1:50482
+1538420857782	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 03:07:38.813 plugin-container[6953:837998] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 03:07:39.071 plugin-container[6954:838022] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538420859314	Marionette	INFO	Listening on port 50489
+1538420859377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538420859422	Marionette	DEBUG	[4294967297] Frame script loaded
+1538420859424	Marionette	DEBUG	[4294967297] Frame script registered
+1538420859439	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538420859508	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 03:07:39.898 plugin-container[6955:838138] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538420861920	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538420862813	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538420866146	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420869163	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538420872415	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420875763	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538420877806	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538420881040	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538421134834	geckodriver	INFO	geckodriver 0.18.0
+1538421134841	geckodriver	INFO	Listening on 127.0.0.1:50632
+1538421135885	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 03:12:17.041 plugin-container[6976:839750] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 03:12:17.296 plugin-container[6977:839777] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538421137564	Marionette	INFO	Listening on port 50639
+1538421137573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538421137614	Marionette	DEBUG	[4294967297] Frame script loaded
+1538421137616	Marionette	DEBUG	[4294967297] Frame script registered
+1538421137631	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538421137687	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 03:12:18.197 plugin-container[6978:839887] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538421139958	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538421141037	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538421144328	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538421147345	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538421150596	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538421153948	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538421155971	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538421159209	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538421247424	geckodriver	INFO	geckodriver 0.18.0
+1538421247430	geckodriver	INFO	Listening on 127.0.0.1:50758
+1538421248519	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 03:14:09.875 plugin-container[6990:840895] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 03:14:10.139 plugin-container[6991:840922] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538421250448	Marionette	INFO	Listening on port 50765
+1538421250548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538421250589	Marionette	DEBUG	[4294967297] Frame script loaded
+1538421250594	Marionette	DEBUG	[4294967297] Frame script registered
+1538421250612	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538421250702	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 03:14:10.864 plugin-container[6992:841030] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6e07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538421252650	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538421253320	Marionette	INFO	Stopped listening on port 50639
+1538421253613	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538421256976	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538421260017	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538421263318	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538421266699	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538421268713	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538421271948	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538421491935	Marionette	INFO	Stopped listening on port 50765
+1538421518234	Marionette	INFO	Stopped listening on port 50489
+1538421545304	geckodriver	INFO	geckodriver 0.18.0
+1538421545311	geckodriver	INFO	Listening on 127.0.0.1:50977
+1538421546378	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 03:19:07.625 plugin-container[7006:843211] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8837, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 03:19:07.881 plugin-container[7007:843235] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538421548129	Marionette	INFO	Listening on port 50984
+1538421548165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538421548205	Marionette	DEBUG	[4294967297] Frame script loaded
+1538421548214	Marionette	DEBUG	[4294967297] Frame script registered
+1538421548230	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538421548289	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 03:19:08.779 plugin-container[7008:843351] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538421550872	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538421551928	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538421555233	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538421558246	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538421561495	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538421564976	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538421566988	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538421570220	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538421578255	Marionette	INFO	Stopped listening on port 50984
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1538423348312	geckodriver	INFO	geckodriver 0.18.0
+1538423348321	geckodriver	INFO	Listening on 127.0.0.1:49251
+1538423349377	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 03:49:10.520 plugin-container[472:5421] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 03:49:10.787 plugin-container[473:5449] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538423351046	Marionette	INFO	Listening on port 49262
+1538423351145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538423351185	Marionette	DEBUG	[4294967297] Frame script loaded
+1538423351214	Marionette	DEBUG	[4294967297] Frame script registered
+1538423351233	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538423351360	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 03:49:11.602 plugin-container[474:5554] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538423353418	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538423354204	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538423354517	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538423354524	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538423427454	Marionette	INFO	Stopped listening on port 49262
+1538458742404	geckodriver	INFO	geckodriver 0.18.0
+1538458742424	geckodriver	INFO	Listening on 127.0.0.1:49263
+1538458743463	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-02 13:39:04.744 plugin-container[571:8519] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-02 13:39:05.013 plugin-container[572:8548] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538458745273	Marionette	INFO	Listening on port 49274
+1538458745351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538458745389	Marionette	DEBUG	[4294967297] Frame script loaded
+1538458745390	Marionette	DEBUG	[4294967297] Frame script registered
+1538458745409	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538458745483	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-02 13:39:05.863 plugin-container[573:8671] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1538458747242	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1538458747861	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1538458751156	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538458754165	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1538458757417	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538458760978	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538458762991	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1538458766230	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1538458774275	Marionette	INFO	Stopped listening on port 49274
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 573, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1539002710370	geckodriver	INFO	geckodriver 0.18.0
+1539002710376	geckodriver	INFO	Listening on 127.0.0.1:60857
+1539002711474	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-08 20:45:12.963 plugin-container[5298:791990] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-08 20:45:13.282 plugin-container[5299:792034] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539002713587	Marionette	INFO	Listening on port 60868
+1539002713622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539002713666	Marionette	DEBUG	[4294967297] Frame script loaded
+1539002713669	Marionette	DEBUG	[4294967297] Frame script registered
+1539002713725	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539002713870	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-08 20:45:14.267 plugin-container[5300:792202] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539002715050	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1539002715469	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1539002718771	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539002721790	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoal
+1539002725040	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539002728515	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539002730532	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/learngoalpaper/0
+1539002733767	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539003208588	geckodriver	INFO	geckodriver 0.18.0
+1539003208594	geckodriver	INFO	Listening on 127.0.0.1:61048
+1539003209671	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-08 20:53:33.253 plugin-container[5594:828548] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-08 20:53:33.752 plugin-container[5595:828577] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539003214317	Marionette	INFO	Listening on port 61057
+1539003214399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539003214448	Marionette	DEBUG	[4294967297] Frame script loaded
+1539003214463	Marionette	DEBUG	[4294967297] Frame script registered
+2018-10-08 20:53:34.504 plugin-container[5596:828697] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7307, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539003214519	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539003214636	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539003215911	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1539003216867	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1539003220293	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539003223312	Marionette	DEBUG	[4294967297] Received DOM event popstate for http://tlias-stu.boxuegu.com/#/index
+1539003227070	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539004057367	Marionette	INFO	Stopped listening on port 61057
+1539004059717	geckodriver	INFO	geckodriver 0.18.0
+1539004059727	geckodriver	INFO	Listening on 127.0.0.1:61351
+1539004060840	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-08 21:07:51.382 plugin-container[6051:861070] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-08 21:07:51.814 plugin-container[6052:861113] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-08 21:07:52.336 plugin-container[6054:861183] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539004072428	Marionette	INFO	Listening on port 61358
+1539004072557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539004072611	Marionette	DEBUG	[4294967297] Frame script loaded
+1539004072620	Marionette	DEBUG	[4294967297] Frame script registered
+1539004072698	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539004072903	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539004074094	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1539004074628	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1539004078017	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539004590369	Marionette	INFO	Stopped listening on port 61358
+1539087033743	geckodriver	INFO	geckodriver 0.18.0
+1539087033753	geckodriver	INFO	Listening on 127.0.0.1:61587
+1539087034825	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-09 20:10:36.535 plugin-container[24428:1745962] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7807, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-09 20:10:36.993 plugin-container[24433:1746050] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539087037289	Marionette	INFO	Listening on port 61594
+1539087037378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539087037423	Marionette	DEBUG	[4294967297] Frame script loaded
+1539087037427	Marionette	DEBUG	[4294967297] Frame script registered
+1539087037465	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539087037644	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-09 20:10:38.014 plugin-container[24435:1746442] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7003, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539087039202	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1539087039553	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1539087042861	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539087046293	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539088488833	Marionette	INFO	Stopped listening on port 61594
+1539262920849	geckodriver	INFO	geckodriver 0.18.0
+1539262920856	geckodriver	INFO	Listening on 127.0.0.1:61320
+1539262921943	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-11 21:02:03.240 plugin-container[27051:1982526] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-11 21:02:03.543 plugin-container[27052:1982555] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539262923868	Marionette	INFO	Listening on port 61327
+1539262923901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262923947	Marionette	DEBUG	[4294967297] Frame script loaded
+1539262923950	Marionette	DEBUG	[4294967297] Frame script registered
+1539262923978	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539262924232	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-11 21:02:04.360 plugin-container[27055:1982896] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539262925958	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1539262926575	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1539262929876	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539262933297	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539263172614	geckodriver	INFO	geckodriver 0.18.0
+1539263172617	geckodriver	INFO	Listening on 127.0.0.1:61455
+1539263173679	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-11 21:06:14.758 plugin-container[27190:1994312] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-11 21:06:15.025 plugin-container[27191:1994343] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539263175308	Marionette	INFO	Listening on port 61462
+1539263175358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539263175397	Marionette	DEBUG	[4294967297] Frame script loaded
+1539263175398	Marionette	DEBUG	[4294967297] Frame script registered
+1539263175413	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539263175617	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-11 21:06:15.844 plugin-container[27193:1994515] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539263177057	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1539263177655	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1539263716747	Marionette	INFO	Stopped listening on port 61327
+1539263726209	geckodriver	INFO	geckodriver 0.18.0
+1539263726217	geckodriver	INFO	Listening on 127.0.0.1:61643
+1539263727358	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-11 21:15:28.857 plugin-container[27503:2028581] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7307, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-11 21:15:29.139 plugin-container[27504:2028611] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539263729457	Marionette	INFO	Listening on port 61652
+1539263729564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539263729599	Marionette	DEBUG	[4294967297] Frame script loaded
+1539263729607	Marionette	DEBUG	[4294967297] Frame script registered
+1539263729621	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539263729778	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-11 21:15:29.980 plugin-container[27505:2028719] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539263730690	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1539263731215	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1539263734508	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539264923877	Marionette	INFO	Stopped listening on port 61652
+1539345518366	geckodriver	INFO	geckodriver 0.18.0
+1539345518372	geckodriver	INFO	Listening on 127.0.0.1:61718
+1539345519471	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-12 19:58:41.595 plugin-container[24237:1664242] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-12 19:58:41.794 plugin-container[24238:1664279] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539345522214	Marionette	INFO	Listening on port 61725
+1539345522257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539345522318	Marionette	DEBUG	[4294967297] Frame script loaded
+1539345522321	Marionette	DEBUG	[4294967297] Frame script registered
+1539345522359	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-12 19:58:43.374 plugin-container[24239:1664490] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539345523590	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539345523595	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539345523797	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=http%3A//tlias-stu.boxuegu.com/%23/login&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20tlias-stu.boxuegu.com%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1539345550986	geckodriver	INFO	geckodriver 0.18.0
+1539345550995	geckodriver	INFO	Listening on 127.0.0.1:61810
+1539345552051	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-12 19:59:13.433 plugin-container[24261:1666561] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-12 19:59:13.876 plugin-container[24262:1666598] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7247, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539345554234	Marionette	INFO	Listening on port 61817
+1539345554301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539345554346	Marionette	DEBUG	[4294967297] Frame script loaded
+1539345554349	Marionette	DEBUG	[4294967297] Frame script registered
+1539345554378	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539345554395	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539345554397	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539345554530	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=http%3A//tlias-stu.boxuegu.com/%23/login&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20tlias-stu.boxuegu.com%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+2018-10-12 19:59:15.153 plugin-container[24263:1666812] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539347057384	Marionette	INFO	Stopped listening on port 61725
+2018-10-13 02:38:14.752 plugin-container[27396:1901495] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1539425030312	Marionette	INFO	Stopped listening on port 61817
+1539691987040	geckodriver	INFO	geckodriver 0.18.0
+1539691987048	geckodriver	INFO	Listening on 127.0.0.1:50844
+1539691988138	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-16 20:13:09.675 plugin-container[22753:1409065] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-16 20:13:10.043 plugin-container[22754:1409112] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539691990375	Marionette	INFO	Listening on port 50855
+1539691990487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539691990529	Marionette	DEBUG	[4294967297] Frame script loaded
+1539691990534	Marionette	DEBUG	[4294967297] Frame script registered
+1539691990550	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539691990673	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-16 20:13:10.909 plugin-container[22755:1409284] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539691991768	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1539691992383	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1539691995852	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+JavaScript error: http://tlias-stu.boxuegu.com/static/js/app.555d7605b20e0f662ecf.js, line 1: TypeError: e.response is undefined
+2018-10-16 22:46:09.455 plugin-container[25377:1672918] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539701172728	Marionette	INFO	Stopped listening on port 50855
+1539930581929	geckodriver	INFO	geckodriver 0.18.0
+1539930581935	geckodriver	INFO	Listening on 127.0.0.1:54290
+1539930583024	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-19 14:29:44.488 plugin-container[11477:753120] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 14:29:44.812 plugin-container[11478:753150] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539930585161	Marionette	INFO	Listening on port 54301
+1539930585244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539930585286	Marionette	DEBUG	[4294967297] Frame script loaded
+1539930585300	Marionette	DEBUG	[4294967297] Frame script registered
+1539930585320	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539930585526	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-19 14:29:45.674 plugin-container[11480:753452] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539930587060	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1539930587752	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1539930591093	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+2018-10-19 16:25:56.929 plugin-container[15519:1101001] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://www.itcast.cn/1024/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js, line 1275: Error: Connection closed, pending request to server1.conn1.child1/performanceActor17, type connect failed
+
+Request stack:
+request@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1332:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1486:14
+PerformanceFront<.connect<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/performance.js:33:30
+
+2018-10-19 16:27:40.724 plugin-container[15573:1108096] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+console.error: (new Error("Connection closed, pending request to server1.conn2.child1/inspectorActor3, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1332:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1486:14\nInspectorFront<.getWalker<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:473:12\ninitInspector/this._initInspector<@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:2709:30\ninitInspector@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:2705:36\nloadTool@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:1629:14\nselectTool@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:1887:12\nopen/<@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:548:13\n", "resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js", 1275))
+console.error: (new Error("Connection closed, pending request to server1.conn2.child1/inspectorActor3, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1332:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1486:14\nInspectorFront<.getWalker<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:473:12\ninitInspector/this._initInspector<@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:2709:30\ninitInspector@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:2705:36\nloadTool@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:1629:14\nselectTool@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:1887:12\nopen/<@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:548:13\n", "resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js", 1275))
+1539937664685	Marionette	INFO	Stopped listening on port 54301
+1540732849409	geckodriver	INFO	geckodriver 0.18.0
+1540732849419	geckodriver	INFO	Listening on 127.0.0.1:50009
+1540732850513	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2018-10-28 21:20:52.960 plugin-container[24171:375763] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-28 21:20:53.433 plugin-container[24172:375797] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1540732854056	Marionette	INFO	Listening on port 50021
+1540732854103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540732854160	Marionette	DEBUG	[4294967297] Frame script loaded
+1540732854165	Marionette	DEBUG	[4294967297] Frame script registered
+1540732854192	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-28 21:20:54.256 plugin-container[24174:375906] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1540732854313	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1540732855425	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://tlias-stu.boxuegu.com/#/login
+1540732856180	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://tlias-stu.boxuegu.com/#/login
+1540732859509	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+2018-10-28 21:52:01.779 plugin-container[24373:390768] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8907, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1540734725621	Marionette	INFO	Stopped listening on port 50021

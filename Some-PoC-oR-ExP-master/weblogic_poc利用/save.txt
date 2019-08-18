@@ -1,0 +1,2 @@
+[+] 存在CVE-2019-2725漏洞,url:http://110.45.179.82:7001/wls-wsat/CoordinatorPortType11;/../x%20
+[+] 存在CVE-2019-2725漏洞,url:http://110.45.179.82:7001/wls-wsat/CoordinatorPortType11;/../x%20
