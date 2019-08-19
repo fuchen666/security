@@ -16,4 +16,7 @@ def poc(target):
 
 
 if __name__ == '__main__':
-    print poc('http://jmswj.e-irobot.com:1035/')
+	target = str(input("input domain: "))
+	print poc(target)
+
+
